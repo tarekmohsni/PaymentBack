@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4ce1a21-651b-4a3d-ac3c-0319fa3ddc58" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/example.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/sum.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/utils/sanitizer.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/sanitizer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bo/transactionsbo.js" beforeDir="false" afterPath="$PROJECT_DIR$/bo/transactionsbo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="26FKefIDFTWu2HGXlHWdLdfCukq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CRM/dailer-process" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4ce1a21-651b-4a3d-ac3c-0319fa3ddc58" name="Changes" comment="" />
+      <created>1647013991137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647013991137</updated>
+      <workItem from="1647013992499" duration="542000" />
+      <workItem from="1647242905061" duration="2274000" />
+      <workItem from="1647329626734" duration="1970000" />
+      <workItem from="1647415826138" duration="14596000" />
+      <workItem from="1647501649003" duration="7314000" />
+      <workItem from="1647590346559" duration="1224000" />
+      <workItem from="1647610397731" duration="1640000" />
+      <workItem from="1647847997303" duration="2438000" />
+      <workItem from="1692776701365" duration="6275000" />
+      <workItem from="1692947659630" duration="6227000" />
+      <workItem from="1693206456202" duration="931000" />
+      <workItem from="1693292251797" duration="767000" />
+      <workItem from="1693379281264" duration="624000" />
+      <workItem from="1693467191005" duration="651000" />
+      <workItem from="1693552949662" duration="1247000" />
+      <workItem from="1693809273936" duration="1218000" />
+      <workItem from="1693896958686" duration="997000" />
+      <workItem from="1693984704712" duration="2432000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
